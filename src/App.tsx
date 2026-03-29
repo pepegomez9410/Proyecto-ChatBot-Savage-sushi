@@ -122,7 +122,7 @@ export default function App() {
           <UtensilsCrossed className="w-6 h-6" />
         </div>
         <div>
-          <h1 className="text-xl font-bold tracking-tight">Savage Sushi</h1>
+          <h1 className="text-xl font-bold tracking-tight">Savage Sushi CDC</h1>
           <p className="text-xs text-orange-100 font-medium">Asistente de Pedidos 🍣</p>
         </div>
       </header>
